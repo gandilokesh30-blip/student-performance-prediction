@@ -1,0 +1,10 @@
+Column,Description,Type
+Student_ID,Unique student identifier,Identifier
+Study_Hours_Per_Day,Average study hours per day,Numeric
+Attendance_Percentage,Percentage of classes attended,Numeric
+Previous_Exam_Score,Score in previous examination,Numeric
+Assignment_Score,Assignment score,Numeric
+Internal_Exam_Score,Internal examination score,Numeric
+Practice_Test_Score,Practice/mock test score,Numeric
+Sleep_Hours_Per_Day,Average sleep hours per day,Numeric
+Final_Exam_Score,Final examination score; prediction target,Numeric
